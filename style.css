@@ -1,0 +1,622 @@
+
+
+
+h2{
+
+color: white;
+text-decoration: underline WHITE;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+H4{
+
+color: orange;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+*{
+background-color: black;
+
+
+
+
+}
+
+
+
+
+
+
+p{
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+color: white;
+
+
+}
+
+ol{
+
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: white;
+
+
+}
+
+
+
+
+H1{
+
+text-align: center;
+color: rgb(4, 5, 5);
+text-decoration: underline;
+color: orange;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+h3{
+
+
+color: orange;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+
+
+
+
+.good{
+
+width: 94%;
+height: 450px;
+border: 5px solid black;
+
+background-image: url("IIT\ BOMBAYY.jpeg");
+background-repeat: no-repeat;
+background-size: 100% 450px;
+
+text-align: RIGHT;
+color: white;
+
+
+}
+
+
+.noty{
+
+color: black;
+
+color: white;
+
+}
+
+.sunti{
+
+    width: 94%;
+    height: 450px;
+    border: 5px solid black;
+    
+    background-image: url('IIT\ KANPUR.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 450px;
+   
+color: white;
+
+
+
+}
+
+.bahsti{
+
+text-align: center;
+
+
+color: white;
+
+
+}
+
+
+.ROP{
+
+    width: 94%;
+    height: 450px;
+    border: 5px solid black;
+    
+    background-image: URL('IIT\ RORKEE.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 450px;
+   color: white;
+
+
+}
+
+.RI{
+
+text-align: center;
+
+color: white;
+
+}
+
+
+.FOI{
+
+
+    Width: 94%;
+    height: 450px;
+    border: 5px solid black;
+    
+    background-image: URL('IIT\ DHELI.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 450px;
+   
+color: white;
+
+
+}
+
+.EUI{
+
+text-align: center;
+color: white;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.iox{
+
+
+display: inline-block;
+
+width: 48%;
+height: 400px;
+border: 1px solid black;
+background-image: url('PG.jpeg');
+
+background-repeat: no-repeat;
+background-size: 100% 400px;
+color: white;
+
+
+
+}
+
+
+.dox{
+
+
+    display: inline-block;
+
+    width: 48%;
+    height: 410px;
+    border: 3px solid black;
+
+color: white;
+
+
+}
+
+
+.WHEEL{
+
+text-decoration: underline;
+
+
+color: white;
+
+}
+
+
+.romen{
+
+   display: inline-block;
+width: 48%;
+height: 400px;
+
+background-image: url('pwop.jpeg');
+
+background-repeat: no-repeat;
+background-size: 100% 400px;
+
+border: 2px solid white;
+
+
+
+
+
+
+}
+
+
+
+
+.lopmo{
+display: inline-block;
+width: 48%;
+   height: 410px;
+
+border: 2px solid black;
+color: white;
+
+}
+
+
+   .VEU{
+display: inline-block;
+width: 48%;
+height: 400PX;
+border: 4PX SOLID black;
+background-image: url('nv.jpeg');
+
+background-size: 100% 400px;
+
+   } 
+
+.POM{
+
+display: inline-block;
+width: 48%;
+height: 410PX;
+
+border: 4PX SOLID black;
+
+
+
+}
+
+
+.HOUI{
+
+
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+.BHARAT{
+
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+.KEVEL{
+
+display: inline-block;
+width: 48%;
+height: 400px;
+border: 4px solid black;
+background-image: url('GB\ SIR.jpeg');
+background-size: 100% 400px;
+
+
+
+}
+
+
+.MANAV{
+   display: inline-block;
+   width: 48%;
+   height: 400px;
+   border: 4px solid black;
+
+
+
+
+}
+
+
+.YOO{
+
+display: inline-block;
+width: 48%;
+height: 400PX;
+border: 4PX solid white;
+
+
+
+
+
+}
+
+
+.NAMA{
+
+display: inline-block;
+width: 48%;
+height: 410px;
+border: 4px solid white;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
